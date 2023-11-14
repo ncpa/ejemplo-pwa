@@ -14,7 +14,7 @@ self.addEventListener('install', evento=>{
                 'css/icons.css',
                 'js/bootstrap.min.js',
                 'js/application.js',
-                'offline.html'
+                'form.html'
             ]);
         });
         //Separamos los archivos que no se modificarán en un espacio de cache inmutable
